@@ -117,8 +117,4 @@ The **IoT-Based Plant Monitoring System** is a smart solution designed to automa
 - Enable data logging for long-term analysis.
 - Integrate with other IoT platforms 
 
----
-
-## Contact
-For questions or contributions, feel free to reach out via GitHub issues or email at [your-email@example.com].
 
