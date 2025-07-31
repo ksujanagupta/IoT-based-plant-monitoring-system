@@ -8,7 +8,7 @@ SCL.   D1
 Temp.  D4
 */
 
-//Include the library files
+//Include the library files related to the components.
 #include <LiquidCrystal_I2C.h>
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
